@@ -87,7 +87,7 @@ Skills: HTML/ CSS/ JS / Tailwind CSS/ BOOTSTRAP / REACT / NODEJS / MONGODB
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeveloperMokchhedul&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mokchhedul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeveloperMokchhedul&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
@@ -103,7 +103,7 @@ Skills: HTML/ CSS/ JS / Tailwind CSS/ BOOTSTRAP / REACT / NODEJS / MONGODB
 <a href="https://www.linkedin.com/in/DeveloperMokchhedul/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/tutul181" target="_blank">
+<a href="https://www.facebook.com/mokchhedul-5" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
