@@ -17,7 +17,7 @@ Skills: HTML/ CSS/ JS / Tailwind CSS/ BOOTSTRAP / REACT / NODEJS / MONGODB
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeveloperMokchhedul](https://github.com/DeveloperMokchhedul)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Tailwind css**
+- 💬 Ask me about **HTML5, CSS3, JS, Tailwind css** reactjs, nextjs, nodejs, express js, mongodb
 
 - 📫 How to reach me **mokchheduls46@gmail.com**
 
