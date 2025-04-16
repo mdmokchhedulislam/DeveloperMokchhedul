@@ -1,7 +1,5 @@
-![I am DeveloperMokchhedul](https://github.com/DeveloperMokchhedul/DeveloperMokchhedul/blob/main/code.png?raw=true)
-<h1 align="center">Hi 👋, I'm MOKCHHEDUL ISLAM</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Study at Rangpur Politechnic Institute, (CSE)</h4>
+<h1 align="center">Hi 👋, I'm Mokchhedul islam</h1>
+<h3 align="center">A passionate MERN Stack web developer from Bangladesh</h3>
 
 <div align="center">
 
