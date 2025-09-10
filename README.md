@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mokchhedul Islam</h1>
 <h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation & Infrastructure Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermokchhedul&label=Profile%20views&color=0e75b6&style=flat" alt="developermokchhedul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmokchhedulislam&label=Profile%20views&color=0e75b6&style=flat" alt="mdmokchhedulislam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developermokchhedul" alt="developermokchhedul" /></a> </p>
-
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmokchhedulislam" alt="mdmokchhedulislam" /></a> </p>
 
 - 🌱 I’m currently mastering **DevOps tools & practices**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mokchhedulislam.netlify.app/)  
@@ -16,26 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mokchhedul-islam-482056250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/developermokchhedul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://github.com/mdmokchhedulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
-
-### 🌟 GitHub Contributions
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=developermokchhedul&theme=react-dark&hide_border=true)
-
-
-### 🏆 Code Challenges
-[![LeetCode Profile](https://leetcode-badge.vercel.app/?username=developermokchhedul)](https://leetcode.com/developermokchhedul)
-[![Codewars Profile](https://www.codewars.com/users/developermokchhedul/badges/large)](https://www.codewars.com/users/developermokchhedul)
-
-
-<h3 align="center">🎮 DevOps & Coding Game Dashboard</h3>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=developermokchhedul&theme=dark" alt="GitHub Streak" />
-<img src="https://activity-graph.herokuapp.com/graph?username=developermokchhedul&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-<img src="https://github-readme-stats.vercel.app/api?username=developermokchhedul&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -61,13 +40,20 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">🚀 Featured DevOps Projects</h3>
+- [Kubernetes Microservices CI/CD](https://github.com/mdmokchhedulislam/k8s-ci-cd)  
+- [Terraform AWS Infrastructure](https://github.com/mdmokchhedulislam/terraform-aws-infra)  
+- [Ansible Automation](https://github.com/mdmokchhedulislam/ansible-k8s-automation)  
+- [Prometheus & Grafana Monitoring](https://github.com/mdmokchhedulislam/k8s-monitoring-stack)  
+- [Helm & ArgoCD GitOps](https://github.com/mdmokchhedulislam/helm-argocd-microservices)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermokchhedul&show_icons=true&locale=en&layout=compact" alt="developermokchhedul" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developermokchhedul&show_icons=true&locale=en" alt="developermokchhedul" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermokchhedul&" alt="developermokchhedul" /></p>
+<h3 align="left">🎮 DevOps & Coding Game Dashboard</h3>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmokchhedulislam&theme=dark" alt="GitHub Streak" />
+<img src="https://activity-graph.herokuapp.com/graph?username=mdmokchhedulislam&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=mdmokchhedulislam&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developermokchhedul&theme=dark)
-
-
+<h3 align="left">🏆 Code Challenges</h3>
+[![LeetCode Profile](https://leetcode-badge.vercel.app/?username=mdmokchhedulislam)](https://leetcode.com/mdmokchhedulislam)
+[![Codewars Profile](https://www.codewars.com/users/mdmokchhedulislam/badges/large)](https://www.codewars.com/users/mdmokchhedulislam)
