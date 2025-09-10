@@ -19,6 +19,23 @@
 <a href="https://github.com/developermokchhedul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
+### 🌟 GitHub Contributions
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=developermokchhedul&theme=react-dark&hide_border=true)
+
+
+### 🏆 Code Challenges
+[![LeetCode Profile](https://leetcode-badge.vercel.app/?username=developermokchhedul)](https://leetcode.com/developermokchhedul)
+[![Codewars Profile](https://www.codewars.com/users/developermokchhedul/badges/large)](https://www.codewars.com/users/developermokchhedul)
+
+
+<h3 align="center">🎮 DevOps & Coding Game Dashboard</h3>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developermokchhedul&theme=dark" alt="GitHub Streak" />
+<img src="https://activity-graph.herokuapp.com/graph?username=developermokchhedul&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=developermokchhedul&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -50,9 +67,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermokchhedul&" alt="developermokchhedul" /></p>
 
 
-### 🚀 Featured DevOps Projects
-- [Kubernetes Microservices CI/CD](https://github.com/developermokchhedul/k8s-ci-cd)  
-- [Terraform AWS Infrastructure](https://github.com/developermokchhedul/terraform-aws-infra)  
-- [Ansible Automation](https://github.com/developermokchhedul/ansible-k8s-automation)  
-- [Prometheus & Grafana Monitoring](https://github.com/developermokchhedul/k8s-monitoring-stack)  
-- [Helm & ArgoCD GitOps](https://github.com/developermokchhedul/helm-argocd-microservices)  
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developermokchhedul&theme=dark)
+
+
