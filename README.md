@@ -66,17 +66,7 @@
 - [Prometheus & Grafana Monitoring](https://github.com/mdmokchhedulislam/k8s-monitoring-stack)  
 - [Helm & ArgoCD GitOps](https://github.com/mdmokchhedulislam/helm-argocd-microservices)  
 
-<h3 align="left">🎮 DevOps & Coding Game Dashboard</h3>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmokchhedulislam&theme=dark" alt="GitHub Streak" />
-<img src="https://activity-graph.herokuapp.com/graph?username=mdmokchhedulislam&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-<img src="https://github-readme-stats.vercel.app/api?username=mdmokchhedulislam&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<h3 align="left">🐍 GitHub Contribution Snake</h3>
-<p align="center">
-  <img src="https://github.com/mdmokchhedulislam/mdmokchhedulislam/raw/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
